@@ -1,0 +1,35 @@
+body {
+  background-color: #FFF; 
+}
+
+.App {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #800000; 
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.heading {
+  color: #FFFFFF;
+}
+
+.input-container {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+input,
+select {
+  width: 100%;
+  padding: 4px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.result {
+  margin-top: 20px;
+  color: #FFFFFF;
+}
